@@ -2,7 +2,8 @@
 
 ###
 <img align="left" height="200" src="https://media.tenor.com/psQzFHIko4MAAAAd/study-anime.gif" />
-<p align="left">🔭 I am currently working on Smart Device Project powered with IoT<br>🥼 I expertise in JavaScript, ReactJS, NextJS and all things web<br>🧪 I am currently learning TDD<br>⚡ Team Lead Frontend Engineer <br>💬 Enthusiastic about Frontend, cloud, AI and data <br>👯 Open to Collaboration</p>
+<div align="left">
+<p>🔭 I am currently working on Smart Device Project powered with IoT<br>🥼 I expertise in JavaScript, ReactJS, NextJS and all things web<br>🧪 I am currently learning TDD<br>⚡ Team Lead Frontend Engineer <br>💬 Enthusiastic about Frontend, cloud, AI and data <br>👯 Open to Collaboration</p></div>
 <br clear="both"/>
 
 ###
@@ -16,7 +17,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/4f/13/ae/4f13ae2767c2f0e729de682cb5e2c313.gif" />
+<img align="left" height="150" src="https://i.pinimg.com/originals/4f/13/ae/4f13ae2767c2f0e729de682cb5e2c313.gif" />
 
 ###
 
