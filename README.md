@@ -75,7 +75,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wahidzzz/wahidzzz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/wahidzzz/wahidzzz/output/snake.svg" onerror="this.src='./snake.svg'" alt="Snake animation" />
 
 ###
 
